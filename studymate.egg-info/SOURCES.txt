@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+backend/__init__.py
+backend/services/__init__.py
+backend/services/ingestion.py
+backend/services/retriever.py
+backend/tests/test_groq.py
+backend/tests/test_ingestion.py
+studymate.egg-info/PKG-INFO
+studymate.egg-info/SOURCES.txt
+studymate.egg-info/dependency_links.txt
+studymate.egg-info/requires.txt
+studymate.egg-info/top_level.txt
